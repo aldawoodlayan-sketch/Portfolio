@@ -266,7 +266,7 @@ h3 {
    width: 80%;
    height: 60%;
    /* يظهر كامل الصورة داخل الإطار بدون قص */
-   object-fit: contain;
+   object-fit: cover;
    /* يعطي فراغًا بسيطًا حول الشعار */
    padding: 20px;
    background: #fff;
