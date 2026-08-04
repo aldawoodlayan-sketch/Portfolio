@@ -263,8 +263,8 @@ h3 {
    overflow: hidden;
 }
 .image-wrap img {
-   width: 100%;
-   height: 100%;
+   width: 75%;
+   height: 80%;
    /* يظهر كامل الصورة داخل الإطار بدون قص */
    object-fit: contain;
 }
