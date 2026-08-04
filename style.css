@@ -197,9 +197,13 @@ h3 {
 .project-image {
    min-height: 260px;
    background: var(--accent-soft);
+
+   display: flex;
+   align-items: center;
+   justify-content: center;
 }
 .project-card.featured .project-image {
-   min-height: 420px;
+   height: 420px;
 }
 .project-card-content {
    padding: 28px;
@@ -263,7 +267,7 @@ h3 {
    overflow: hidden;
 }
 .image-wrap img {
-   width: 75%;
+   width: 90%;
    height: 80%;
    /* يظهر كامل الصورة داخل الإطار بدون قص */
    object-fit: contain;
