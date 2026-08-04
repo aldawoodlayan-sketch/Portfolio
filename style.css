@@ -263,8 +263,8 @@ h3 {
    overflow: hidden;
 }
 .image-wrap img {
-   width: 100%;
-   height: 100%;
+   width: 80%;
+   height: 60%;
    /* يظهر كامل الصورة داخل الإطار بدون قص */
    object-fit: contain;
    /* يعطي فراغًا بسيطًا حول الشعار */
